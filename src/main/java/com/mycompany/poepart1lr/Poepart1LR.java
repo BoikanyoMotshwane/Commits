@@ -12,7 +12,7 @@ import java.util.regex.Pattern;
  */
    
  class Login {
-   
+   //global variable on how to declare the variables needed for the login class
     int count;
     int Size = 10;
     String storedUser_Name;
