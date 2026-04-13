@@ -29,7 +29,7 @@ import java.util.regex.Pattern;
     //Creating a return method to check username vaildation
      //if containing five characters long and a username 
        //if contains _ and if 
-       //conditional statement.
+            
     {
         boolean isValid = user_name.length() == 5 && user_name.contains("_");
         if(isValid)
