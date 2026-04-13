@@ -13,6 +13,7 @@ import java.util.regex.Pattern;
    
  class Login {
    //global variable on how to declare the variables needed for the login class
+   //interger is used for the declaring the variables 
     int count;
     int Size = 10;
     String storedUser_Name;
