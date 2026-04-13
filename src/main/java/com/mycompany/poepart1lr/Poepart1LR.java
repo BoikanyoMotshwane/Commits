@@ -10,7 +10,7 @@ import java.util.regex.Pattern;
  *
  * @author Boikanyo
  */
-   
+   //inserting the class instances 
  class Login {
    //global variable on how to declare the variables needed for the login class
    //interger is used for the declaring the variables 
