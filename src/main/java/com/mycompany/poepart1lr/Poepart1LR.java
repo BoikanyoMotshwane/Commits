@@ -25,7 +25,7 @@ import java.util.regex.Pattern;
     String password;
     String phone;
    
-    
+    //data type methods are used in the code
     public boolean checkusername(String user_name)
     //Creating a return method to check username vaildation
      //if containing five characters long and a username 
